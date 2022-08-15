@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "dp-template-classifier-dashboard"
+name = "dp-template-<template_slug>"
 version = "0.1.0"
-description = "Datapane Template: Performance Dashboard for Classifiers"
+description = "Datapane Template: <template_name>"
 authors = ["Datapane <dev@datapane.com>"]
 
 [tool.poetry.dependencies]
