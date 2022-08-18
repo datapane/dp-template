@@ -39,6 +39,10 @@ The template can be downloaded directly in archive file format, or directly thro
 
 `datapane template dp-template-<template_slug>`
 
+## Preview
+
+<template_preview_image>
+
 ## Dependencies
 
 This template may require additional third-party packages. A full list of required packages can be found in `pyproject.toml`
