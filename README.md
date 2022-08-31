@@ -53,4 +53,4 @@ This template is open-source and accepts contributions!
 
 ## How to create a new Datapane template
 
-Visit [datapane/dp-template](https://github.com/datapane/dp-template-classifier-dashboard) for instructions on how to create a new Datapane template.
+Visit [datapane/dp-template](https://github.com/datapane/dp-template) for instructions on how to create a new Datapane template.
