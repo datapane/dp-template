@@ -35,9 +35,7 @@ Update this README to include template-specific content within the `<template_*>
 
 ## Download the template
 
-The template can be downloaded directly in archive file format, or directly through the Datapane package with the following command:
-
-`datapane template dp-template-<template_slug>`
+The template can be downloaded directly in archive file format.
 
 ## Preview
 
