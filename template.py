@@ -1,5 +1,5 @@
 import datapane as dp
 
 # Build report
-report = dp.Report("Datapane template")
-report.save(path="template.html", open=True)
+v = dp.Blocks("Datapane template")
+dp.save_report(v, path="template.html", open=True)
